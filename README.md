@@ -143,3 +143,4 @@ strfile -c % your-fortune-file your-fortune-file.dat
 
 BSD licensed
 test ubran
+tesasdft ubran
